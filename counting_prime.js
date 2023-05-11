@@ -10,6 +10,7 @@ let itP=0;
 let itNP=0;
 let resultP=[];
 let resultNP=[];
+//"hello this is a change"
 for(let i=2;i<100;i++){
     let isprime=-1;
    
